@@ -1,0 +1,4 @@
+
+Bubble Sort é um algoritmo de ordenação usado para organizar uma lista de valores (números, palavras, etc.) em ordem crescente ou decrescente.
+Ele funciona comparando pares de elementos e trocando suas posições sempre que estão na ordem errada. Esse processo se repete até que a lista esteja ordenada.
+O nome "Bubble" (bolha) vem do fato de os maiores elementos “subirem” para o final da lista, como bolhas na água.
