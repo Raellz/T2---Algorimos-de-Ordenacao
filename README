@@ -1,0 +1,40 @@
+Requisitos: É necessário ter o Python 3 instalado no computador.
+
+Você pode verificar com o comando:
+python --version
+
+Se o Python estiver instalado, ele mostrará algo como:
+Python 3.14.0
+Se não estiver instalado, baixe e instale a partir de: https://www.python.org/downloads/
+
+
+O arquivo Lista_mil-numeros.txt contém as listas de números usadas para teste.
+Você pode abrir o arquivo, copiar uma das listas e colar no terminal quando o programa pedir a entrada.
+
+Como Executar no Terminal
+
+Abra o terminal na pasta onde estão os arquivos.
+Exemplo (no Windows PowerShell):
+cd "C:\Users\SeuUsuario\Documentos\MeusCodigos\FACULDADE\Estrutura_Dados\T2"
+
+Execute o algoritmo desejado com o comando:
+python Nome_Do_Arquivo.py
+
+Exemplos:
+    python Bubble_Sort.py
+    python Selection_Sort.py
+    python Insertion_Sort.py
+    python Quick_Sort.py
+    python Merge_Sort.py
+
+A mensagem "Cole os números (ex: 1,2,3,4...): " aparecerá no terminal.
+    Cole a lista de números (exemplo): 5,4,3,2,1
+    Ou copie uma das listas do arquivo Lista_mil-numeros.txt e cole no terminal.
+
+O programa exibirá algo assim:
+
+Lista ordenada: [1, 2, 3, 4, 5]
+Comparações: 10
+Trocas/Movimentações: 4
+Tempo (ms): 1.243
+
